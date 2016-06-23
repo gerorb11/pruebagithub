@@ -1,4 +1,9 @@
 Esto es una prueba en la primera línea
+<<<<<<< HEAD
 Esto es la segunda línea modificado por compañero 1 y 2
+=======
+Esto es la segunda línea modificado por compañero 1 y ally la mas linda
+>>>>>>> 00443936cdb1f086b5109112f39fbf65835baefb
 Esto es la tercera línea
 Esta línea fue un error fatal agregarla!!!!
+ll
